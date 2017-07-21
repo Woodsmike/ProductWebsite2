@@ -1,1 +1,1 @@
-﻿
+﻿$("div#bs-example-navbar-collapse-1.collapse.navbar-collapse").hide().show("slide", { direction: "left" }, 1500);
